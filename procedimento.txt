@@ -1,0 +1,46 @@
+Scegliere cosa guardare su Netflix
+Che barba, che noia, che noia, che barba!
+
+
+INIZIO
+-entro nel salotto;
+-prendo il telecomando;
+SE la tv è accesa:
+    -mi siedo sul divano;
+ALTRIMENTI
+    -accendo la tv;
+    -mi siedo sul divano;
+FINE ALTRIMENTI;
+FINE SE;
+
+-Cerca l'app Netflix;
+-Fare il login all'app;
+SE sai cosa guardare:
+    -Cercalo;
+ALTRIMENTI
+    -Scorri nella galleria;
+    SE hai trovato cosa guardare:
+        FINE SE;
+FINE ALTRIMENTI;
+FINE SE;
+
+SE hai trovato cosa cerchi:
+    -Premi Play e guarda;
+    FINE SE;
+ALTRIMENTI:
+    -Torna a cercalo;
+FINE ALTRIMENTI;
+FINE SE;
+
+-Premi Play;
+SE stai ancora guardando:
+    -Continua a guardare;
+FINE SE;
+
+SE Sei stanco:
+    -Prendi il telecomando;
+    -Spegni la tv;
+    -Vai a dormire;
+FINE SE;
+
+FINE
